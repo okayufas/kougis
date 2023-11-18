@@ -1,0 +1,13 @@
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.dll
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.pdb
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.dll.manifest
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.vsto
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.csproj.AssemblyReference.cache
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.Properties.Resources.resources
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.csproj.GenerateResource.cache
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.csproj.CoreCompileInputs.cache
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.csproj.CopyComplete
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.dll
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.pdb
+C:\Users\okayuj\source\kougi\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.MyUserControl.resources
